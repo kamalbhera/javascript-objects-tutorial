@@ -1,5 +1,1 @@
-# Objects-in-JavaScript
-
- https://roadsidecoder.hashnode.dev/javascript-interview-questions-objects-output-based-destructuring-object#write-comment
-
-https://roadsidecoder.hashnode.dev/javascript-interview-questions-this-keyword-output-based-scope-implicit-binding-etc
+# Javascript Objects tutorial to undarstanding basics of js how objects work and how to clone the object
